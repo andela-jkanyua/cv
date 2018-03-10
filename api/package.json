@@ -1,0 +1,9 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "server.js",
+  "repository": "https://github.com/andela-jkanyua/cv",
+  "author": "Jimnah Kanyua",
+  "license": "MIT"
+}
