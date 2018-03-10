@@ -5,5 +5,8 @@
   "main": "server.js",
   "repository": "https://github.com/andela-jkanyua/cv",
   "author": "Jimnah Kanyua",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^17.2.2"
+  }
 }
